@@ -1,0 +1,81 @@
+#logo{
+  font-size: 3em;
+  font-style: italic;
+  font-weight: bold;
+  background-image: url('197760933_128322396062925_7428484357023499448_n.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  color: yellow;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000Ff;
+}
+.box{
+    display: flex;
+    font-size: : 3em;
+    color: yellow;
+    justify-content: space-around;
+  }
+sub{
+  font-size: 1em;
+
+}
+body{
+
+    background-image: url('197760933_128322396062925_7428484357023499448_n.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.headerbox{
+  display: flex;
+  flex-direction: row;
+  float: left;
+  justify-content: center;
+  width: 100%;
+  height: 450px;
+  font-style: italic;
+  font-family: cursive;
+  justify-content: space-around;
+}
+.ss{
+  font-size: 2em;
+  color: yellow;
+
+}
+#material-icons{
+  font-size: 2em;
+  color: yellow;
+
+}
+a{
+  display: grid;
+  grid-gap: 2em;
+  grid-template-areas:
+  "bottomright";
+    font-size: 2em;
+  float: right;
+  text-align: right;
+  width: 70%;
+  color: white;
+
+  text-align: right;
+}
+.offers{
+  font-size: 2em;
+  font-style: oblique;
+  text-align: center;
+  color: yellow;
+  background-color: black;
+
+}
+
+.menu{
+  font-size: 3em;
+  color: yellow;
+}
+
+.contact{
+  font-size: 3em;
+  color: yellow;
+
+}

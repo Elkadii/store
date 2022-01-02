@@ -1,0 +1,35 @@
+.container{
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  flex-direction: column;
+font-weight: bold;
+justify-content: flex-start;
+align-items: center;
+}
+label{
+  width: 250px;
+  font-size: 1.5em;
+  color: yellow;
+  font-weight: bold;
+}
+input{
+  width: 250px;
+  height: 50px;
+  font-size: 1.5em;
+}
+a{
+  font-size: 1.5em;
+  
+}
+body{
+  background-image: url('217345070_151490470412784_5234999220769131364_n.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+
+
+
+}
